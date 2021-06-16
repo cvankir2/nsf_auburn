@@ -10,9 +10,9 @@ Location: Auburn University, funding through National Science Foundation & Depar
 ### Explore this repository to see code for this project!
 
 this repository is organized as follows:
-  --> template_matching folder holds images and code (Python) for determining the ground speed between two aerial images
-  --> feature_matching folder holds images and code (Python) for determining whether two images are taken at the same location
-  --> dead_reckoning folder holds code for path determination in GPS-denied environments through mathematical methods
+ - template_matching folder holds images and code (Python) for determining the ground speed between two aerial images
+ - feature_matching folder holds images and code (Python) for determining whether two images are taken at the same location
+ - dead_reckoning folder holds code for path determination in GPS-denied environments through mathematical methods
 
 
 ### Abstract:
