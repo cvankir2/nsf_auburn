@@ -1,5 +1,7 @@
 Author: Christine Van Kirk
+
 Date: Summer 2021
+
 Location: Auburn University, funding through National Science Foundation & Department of Defense
 
 Abstract:
