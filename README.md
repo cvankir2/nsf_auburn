@@ -1,6 +1,6 @@
 ### Context
 
-Author: Christine Van Kirk
+Author: Christine Van Kirk & Alice Chen
 
 Date: Summer 2021
 
