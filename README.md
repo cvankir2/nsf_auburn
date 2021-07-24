@@ -12,6 +12,7 @@ Location: Auburn University, funding through National Science Foundation & Depar
 this repository is organized as follows:
  - `template_matching` folder holds images and code (Python) for determining the ground speed between two aerial images
  - `feature_matching` folder holds images and code (Python) for determining whether two images are taken at the same location
+ - `Phantom3UAV_Photos_6-7-21` folder holds sample images taken by a DJI Phantom Phantom 3 Pro UAV at Auburn Univeristy in early June 2021. These photos are used for sample image processing with template and feature matching.
  - `dead_reckoning` folder holds code for path determination in GPS-denied environments through mathematical methods
 
 
